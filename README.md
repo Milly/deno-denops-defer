@@ -1,3 +1,7 @@
+# ARCHIVED
+
+Use [denops-batch-accumulate](https://github.com/Milly/denops-batch-accumulate).
+
 # deno-denops-defer
 
 [![license:MIT](https://img.shields.io/github/license/Milly/deno-denops-defer?style=flat-square)](LICENSE)
